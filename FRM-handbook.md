@@ -27,9 +27,24 @@
    - counterparty risk
    - liquidity risk due to similiar traders
    - Knightian uncertainty: massive ctrpty failure or systemic risk 
-    
- 
- 
+### Risk Management Failures
+
+- tasks:
+  - Identifying all risks faced by the firm
+  - Assessing and monitoring those risks 
+  - Managing those risks if given the authority to do so 
+  - Communicating these risks to the decision makers
+
+## PORTFOLIO CONSTRUCTION
+### Comparing Multiple Assets
+
+- we observe a trade-off between higher risk and higher return. Without risk measures, deciding where to invest would be difficult.
+- a bank must decide how much leverage to assume, as defined by the amount of assets divided by the amount of equity on its balance sheet.
+
+### Risk-Adjusted Performance Measurement
+
+- the Sharpe ratio (SR), which is the ratio of the average rate of return, μ(RP), in excess of the risk-free rate RF, to the absolute risk:
+
  
  
  
