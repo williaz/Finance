@@ -6,7 +6,7 @@
 - relative risk
   - benchmark
   - after accounting for the effect of inflation
-  - TEV x P (Tracking eror volatility)
+  - TEV x P (Tracking error volatility)
   
   
 - Bad luck VS a Flaw in the risk model
@@ -43,10 +43,14 @@
 
 ### Risk-Adjusted Performance Measurement
 
-- the Sharpe ratio (SR), which is the ratio of the average rate of return, μ(RP), in excess of the risk-free rate RF, to the absolute risk:
+- the Sharpe ratio (**SR**), which is the ratio of the average rate of return, μ(RP), in **excess** of the risk-free rate RF, to the absolute risk:
+- The Sharpe ratio focuses on total risk measured in absolute terms. This approach can be extended to include VAR in the denominator instead of the volatility of returns.
+- The information ratio (IR) is the ratio of the average rate of return of portfolio P in excess of the benchmark B to the TEV:
+  - An information ratio of 0.50 is typical of the performance of the top 25th percentile of money managers and is considered “good.”
+  - TEV does not adjust for average returns.
 
- 
- 
+Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 12). Wiley. Kindle Edition. 
+Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 12). Wiley. Kindle Edition.  
  
  
  
