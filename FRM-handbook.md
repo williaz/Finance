@@ -48,9 +48,14 @@
 - The information ratio (IR) is the ratio of the average rate of return of portfolio P in excess of the benchmark B to the TEV:
   - An information ratio of 0.50 is typical of the performance of the top 25th percentile of money managers and is considered “good.”
   - TEV does not adjust for average returns.
+### 1.3.3 Mixing Assets 
+- asset allocation
+- correlation coefficient
 
-Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 12). Wiley. Kindle Edition. 
-Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 12). Wiley. Kindle Edition.  
- 
- 
- 
+### 1.3.4 Efficient Portfolios
+
+- assumption that all assets follow a jointly normal distribution.
+- the efficient set
+- the locus of points
+
+
