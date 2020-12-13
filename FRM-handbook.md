@@ -58,4 +58,27 @@
 - the efficient set
 - the locus of points
 
+### 1.4.1 CAPM
+
+- Beta: systematic risk, exposure to market factor
+- Alpha: intercept, actively management skill
+- mapping: a widely used process in risk management. Mapping replaces individual positions by a smaller number of exposures on fundamental risk factors.
+
+- the mean-variance efficiency of the market implies a linear relationship between expected excess returns and the systematic risk of all stocks in the market portfolio.
+- TR, Treynor ratio, penalize for high beta, fot well-diversified
+- SR, undiversified portfolio
+- Jensen's alpha: CAPM
+- the CAPM assumes that (1) investors have homogeneous expectations, (2) distributions are normal, (3) capital markets are perfect, and (4) markets are in equilibrium.
+
+#### 1.4.2 APT
+
+- highly granular: sufficient num of common factors is identified, and well-diversified portfolio
+- PCA: principal component analysis, best fit to the correlation matrix of asset returns
+
+
+
+
+
+
+
 
