@@ -75,7 +75,16 @@
 - highly granular: sufficient num of common factors is identified, and well-diversified portfolio
 - PCA: principal component analysis, best fit to the correlation matrix of asset returns
 
-
+#### 1.6 formula
+- TEV: vol diff with benchmark
+- Absolute risk: port * vol of return
+- relative risk: TEV * port
+- SR(Sharpe): return of port regarding to risk-free
+- IR: return diff with benchmark regarding to TEV
+- TR(Treynor) return diff with risk free regarding to Beta
+- Jenson's alpha: return diff with risk free and beta multiply exceeding (market - risk-free)
+- CAPM
+- APT
 
 
 
