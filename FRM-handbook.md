@@ -87,8 +87,10 @@
 - APT                                                    
 - CML(capital market line): the highest Sharpe ratio of any portfolio on the efficient frontier.
 
-
-
+#### 2.1
+- cumulative distribution function: <=
+- p.d.f(probabulty density function): =
+- A random variable is characterized by its distribution function, it is convenient to summarize it by a few param(moments)
 
 
 
