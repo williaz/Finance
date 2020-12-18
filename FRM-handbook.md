@@ -76,15 +76,17 @@
 - PCA: principal component analysis, best fit to the correlation matrix of asset returns
 
 #### 1.6 formula
-- TEV: vol diff with benchmark
+- TEV: vol diff with benchmark, corr
 - Absolute risk: port * vol of return
 - relative risk: TEV * port
-- SR(Sharpe): return of port regarding to risk-free
-- IR: return diff with benchmark regarding to TEV
-- TR(Treynor) return diff with risk free regarding to Beta
+- SR(Sharpe): risk-free, own vol
+- IR: benchmark, TEV
+- TR(Treynor) risk free, Beta
 - Jenson's alpha: return diff with risk free and beta multiply exceeding (market - risk-free)
-- CAPM
-- APT
+- CAPM: systemic risk, exceeds risk free, beta
+- APT                                                    
+- CML(capital market line): the highest Sharpe ratio of any portfolio on the efficient frontier.
+
 
 
 
