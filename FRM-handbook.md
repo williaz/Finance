@@ -91,6 +91,23 @@
 - cumulative distribution function: <=
 - p.d.f(probabulty density function): =
 - A random variable is characterized by its distribution function, it is convenient to summarize it by a few param(moments)
+- mean: central tendency, or center of gravity of the population.
+- quantile: the cutoff point x with an associated probability c
+- median: 50% quantile
+- variance: the squared dispersion around the mean,
+- skewness: the scaled third moment, describes departures from symmetry
+  - negative -> left
+- kurtosis: The scaled fourth moment, describes the degree of flatness of a distribution, or width of its tails.
+  - leptokurtic, or fat-tailed > 3
+  - 3, normal
+  - platykurtic, < 3
+  
+#### 2.2 MULTIVARIATE DISTRIBUTION FUNCTIONS
+
+- marginal density:
+- conditional density: Bayes' rule.
+- covariance: comovement
+- correlation coefficient: scale the covariance into a unitless number,
 
 
 
