@@ -109,6 +109,35 @@
 - covariance: comovement
 - correlation coefficient: scale the covariance into a unitless number,
 
+#### 2.3 FUNCTIONS OF RANDOM VARIABLES
+- E
+  - product: + cov
+- V
+  - linear tranf: drop constant
+  - sum: + cov
+  - portf: w' * cov matrix * w
+- For general density functions and transformations, risk managers turn to numerical methods, especially when the number of random variables is large.
+
+#### 2.4 IMPORTANT DISTRIBUTION FUNCTIONS
+
+- uniform: 
+  - As any cumulative distribution function ranges from zero to unity, we first draw X from U(0, 1) and then compute y = F−1(x). The random variable Y will then have the desired distribution f(Y).
+- normal
+  - skewness: 0
+  - +/-e: 95
+  - stable under addition: a linear combination of jointly normally distributed random variables has a normal distribution.
+
+- lognormal: 
+  - A random variable X is said to have a lognormal distribution if its logarithm Y = ln(X) is normally distributed.
+  - X = EXP(Normal)
+  - X = P1/P0
+- student t
+
+
+
+
+
+
 
 
 
