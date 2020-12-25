@@ -98,7 +98,7 @@
 - skewness: the scaled third moment, describes departures from symmetry
   - negative -> left
 - kurtosis: The scaled fourth moment, describes the degree of flatness of a distribution, or width of its tails.
-  - leptokurtic, or fat-tailed > 3
+  - leptokurtic, or fat-tailed, high peak > 3
   - 3, normal
   - platykurtic, < 3
   
@@ -107,7 +107,8 @@
 - marginal density:
 - conditional density: Bayes' rule.
 - covariance: comovement
-- correlation coefficient: scale the covariance into a unitless number,
+- correlation coefficient: scale the covariance into a unitless number
+  - Independence implies zero correlation, but the reverse is not always true.
 
 #### 2.3 FUNCTIONS OF RANDOM VARIABLES
 - E
@@ -132,6 +133,8 @@
   - X = EXP(Normal)
   - X = P1/P0
 - student t
+
+#### 3.1 PARAMETER ESTIMATION
 
 
 
