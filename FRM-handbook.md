@@ -136,8 +136,11 @@
 
 #### 3.1 PARAMETER ESTIMATION
 
-
-
+- significance level: 1 - confidence level
+- se(m) = vol/ (T)-1
+- se(vol^) = vol / (2T) -1
+- type1 err: rejeact true
+- type2 err: accept false
 
 
 
