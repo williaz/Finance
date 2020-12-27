@@ -140,9 +140,34 @@
 - se(m) = vol/ (T)-1
 - se(vol^) = vol / (2T) -1
 - type1 err: rejeact true
+  - The type I error rate or significance level is the probability of rejecting the null hypothesis given that it is true. 
 - type2 err: accept false
 
 
+#### 3.2 REGRESSION ANALYSIS
+- param meaning
+- explain the eq
+
+
+- Ordinary Least Squares (OLS) Estimation; estimators provide the least sum of squared errors.
+- Cov(y, x) = beta x V(x)
+- R^2: the regression R-squared
+  - the coefficient of determination.
+  - p(y, x)^2: R-squared is also the square of the usual correlation coefficient
+  - 1: fit excellent
+  - 1 - V(e)/V(y) = beta^2 V(x) /V(y)
+  - the contribution of independent var * beta
+- A smaller p-value means that there is stronger evidence in favor of the alternative hypothesis
+
+
+
+
+- Autoregression: is a regression of a variable on a lagged value of itself,
+  - Autocorrelation changes normal patterns in risk across horizons. When there is no autocorrelation, risk increases with the square root of time. With positive autocorrelation, shocks have a longer-lasting effect and **risk increases faster than the square root of time**.
+
+- multicollinearity: two variables xi can be highly correlated
+
+- Problems with **efficiency** arise when the estimation does not use all available information. For instance, the residuals can have different variances across observations, in which case we have **heteroskedasticity**. This is the opposite of the constant variance case, or **homoskedasticity**.
 
 
 
