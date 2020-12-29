@@ -169,6 +169,26 @@
 
 - Problems with **efficiency** arise when the estimation does not use all available information. For instance, the residuals can have different variances across observations, in which case we have **heteroskedasticity**. This is the opposite of the constant variance case, or **homoskedasticity**.
 
+#### 4.1 SIMULATIONS WITH ONE RANDOM VARIABLE
+
+- Markov process: a particular stochastic process independent of its past history; the entire distribution of the future price relies on the current price only.
+  - The Ito process.
+
+- geometric Brownian motion (GBM)
+  - As the limit of this model is a normal distribution for dS/S = dln(S), S follows a lognormal distribution.
+  - S(t + 1) = S(t) + S(t)x(mean x deltaT + vol x e x deltaT^-0.5)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
