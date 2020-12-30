@@ -178,9 +178,20 @@
   - As the limit of this model is a normal distribution for dS/S = dln(S), S follows a lognormal distribution.
   - S(t + 1) = S(t) + S(t)x(mean x deltaT + vol x e x deltaT^-0.5)
 
+- equilibrium models
+  - lognormal model: r = 1
+  - Vasicek model: rate = 0
+  - Cox, Ingersoll, and Ross (CIR) model: r = 0.5
+- no-arbitrage models are designed to be consistent with today's term structure.
+  - Ho and Lee model
+  - Hull and White model: incorporate mean reversion
+  - Heath, Jarrow, and Morton model: volatility is a function of time.
+#### 4.2 IMPLEMENTING SIMULATIONS
 
+- risk management uses physical distributions, whereas pricing methods use risk-neutral distributions.
+- Since Monte Carlo simulations involve independent draws, one can show that the standard error of statistics is inversely related to the square root of K.
 
-
+Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 93). Wiley. Kindle Edition. 
 
 
 
