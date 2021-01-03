@@ -1,3 +1,10 @@
+
+
+##
+- Cholesky factors
+
+##
+
 - The function of the risk manager is to evaluate financial risks using both quantitative tools and judgment.
 - standard deviation/volatility is a measure of dispersion around the mean.
 
@@ -191,8 +198,12 @@
 - risk management uses physical distributions, whereas pricing methods use risk-neutral distributions.
 - Since Monte Carlo simulations involve independent draws, one can show that the standard error of statistics is inversely related to the square root of K.
 
-Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 93). Wiley. Kindle Edition. 
+#### 4.3 MULTIPLE SOURCES OF RISK
 
+- generate N joint values of ε that display the correlation structure V(ε) = E(εε') = R.
+- R: symmetric real matrix can be decomposed into its so-called Cholesky factors:
+- perform a statistical decomposition of the covariance matrix
+  - A widely used method for this is the principal component analysis (PCA),
 
 
 
