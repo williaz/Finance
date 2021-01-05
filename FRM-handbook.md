@@ -205,6 +205,21 @@
 - perform a statistical decomposition of the covariance matrix
   - A widely used method for this is the principal component analysis (PCA),
 
+#### 5.1 REAL DATA
+
+- volatility clustering: risk changes in a predictable fashion.
+
+- efficient markets: any change in the asset price must be due to news,
+- random walk: conditional distribution of returns depends on only current prices,
+  - distribution of returns is constant over time, the variables are said to be independent and identically distributed (i.i.d.).
+
+- time aggregation
+  - extension to a multiple period follows a square root of time rule.
+  - trend: longer-term volatility increases faster
+  - mean reversion: more slowly
+
+- Portfolio Aggregation @@
+
 
 
 
