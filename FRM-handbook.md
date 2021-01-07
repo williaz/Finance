@@ -220,9 +220,11 @@
 
 - Portfolio Aggregation @@
 
+#### 5.2 NORMAL AND LOGNORMAL DISTRIBUTIONS
 
-
-
+- normal VS lognormal
+  - The difference between the two distributions is driven by the size of the volatility parameter over the horizon. 
+  - The normal and lognormal distributions are very similar for short horizons or low volatilities.
 
 
 
