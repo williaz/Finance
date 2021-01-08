@@ -226,6 +226,27 @@
   - The difference between the two distributions is driven by the size of the volatility parameter over the horizon. 
   - The normal and lognormal distributions are very similar for short horizons or low volatilities.
 
+#### 5.3 DISTRIBUTIONS WITH FAT TAILS
+
+- one 4 std dev per year each market; one 10 std dev per market each year
+  - Every financial market experiences one or more daily price moves of four standard deviations or more each year. And in any year, there is usually at least one market that has a daily move greater than 10 standard deviations.
+
+- a rule of thumb would be to correct the VAR measure from a normal distribution by a ratio of 1.61 to achieve the desired coverage in the presence of fat tails. 
+  - Basel multiplicative factor of 3.
+
+#### 5.4 TIME VARIATION IN RISK
+- MA: can't clustering vol
+- GARCH
+  - conditional variance: time-varying var, indexed by time
+  - innovation: pervious day's return
+  - the GARCH(p, q) model has p lagged terms on historical returns and q lagged terms on previous variances.
+  - persistence (a1 - b): the speed at which shocks to the variance revert to their long-run values.
+
+
+  
+  
+
+
 
 
 
