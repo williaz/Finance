@@ -240,10 +240,17 @@
   - conditional variance: time-varying var, indexed by time
   - innovation: pervious day's return
   - the GARCH(p, q) model has p lagged terms on historical returns and q lagged terms on previous variances.
-  - persistence (a1 - b): the speed at which shocks to the variance revert to their long-run values.
+  - persistence (a1 + b): the speed at which shocks to the variance revert to their long-run values.
+  - high persistence mean shower mean reversion
+  - The square root of time rule used to scale one-day returns into longer horizons is generally inappropriate when risk is time-varying.
+  - annualized volatility: ```T**0.5```
 
+- EWMA
+  - decay factor on h(t-1), recent observaton vol
+  - special GARCH
+  - permanent persistence: Shocks to the volatility do not decay, when the persistence is 1.00.
+  - undefined long-run average variance
 
-  
   
 
 
