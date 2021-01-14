@@ -250,8 +250,18 @@
   - special GARCH
   - permanent persistence: Shocks to the volatility do not decay, when the persistence is 1.00.
   - undefined long-run average variance
+#### 6.1 DISCOUNTING, PRESENT VALUE, AND FUTURE VALUE
+- T: tenor
+- discounting factor: interest rate, yield(internal rate of return)
+- EAR(effective annual rate): percentage term  on an annual basis
+  - comparable across assets
+- exp(y), (1 + y/T)^T
+  - y = Pt / Pt-1
 
-  
+#### 6.2 PRICE-YIELD RELATIONSHIP
+
+
+
 
 
 
