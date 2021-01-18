@@ -260,8 +260,16 @@
 
 #### 6.2 PRICE-YIELD RELATIONSHIP
 
-
-
+- par bond: coupon rate = yiled
+- premium bond: >
+- discount bond: <
+- payoff function: higer yiely lower price
+- consoles/perpetual bond
+- The negative of the first derivative is the dollar duration (DD):
+- risk is measured as the dollar value of a basis point (DVBP)
+  - DVBP = DD * deltaY = D* * P * 0.0001
+  - with 0.0001 representing an interest rate change of one basis point (bp) or one-hundredth of a percent. The DVBP, sometimes called the DV01
+  - The dollar value of a basis point is the dollar exposure of a bond price for a change in yield of 0.01%.
 
 
 
