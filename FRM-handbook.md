@@ -271,6 +271,15 @@
   - with 0.0001 representing an interest rate change of one basis point (bp) or one-hundredth of a percent. The DVBP, sometimes called the DV01
   - The dollar value of a basis point is the dollar exposure of a bond price for a change in yield of 0.01%.
 
+- The modified duration is an adjusted version of the Macaulay duration, which accounts for changing yield to maturities. 
+- duration
+  - D=T for zero-coupon bond
+- DD: dollar duration
+  - modified DD * P0
+- coupon curve duration
+  - the market prices of securites with diff coupons
+  - calc df
+- Convexity is always positive for regular coupon-paying bonds. Greater convexity is beneficial for both falling and rising yields.
 
 
 
