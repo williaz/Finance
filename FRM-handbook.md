@@ -271,15 +271,26 @@
   - with 0.0001 representing an interest rate change of one basis point (bp) or one-hundredth of a percent. The DVBP, sometimes called the DV01
   - The dollar value of a basis point is the dollar exposure of a bond price for a change in yield of 0.01%.
 
+- Macaulay duration
+  - (Macaulay) duration represents an average of the time to wait for all cash flows.
+  - With a zero coupon, Macaulay duration is equal to maturity.
 - The modified duration is an adjusted version of the Macaulay duration, which accounts for changing yield to maturities. 
-- duration
+  - modif D = Mac D/(1 + y)
+- Duration
   - D=T for zero-coupon bond
+  - the average time to wait for each payment, weighted by the present value of the associated cash flow.
+  - For bonds with fixed coupons, duration is less than maturity.
+  - The duration of a long-term bond can be approximated by an upper bound, which is that of a consol with the same yield, DC = (1+y)/y.
 - DD: dollar duration
   - modified DD * P0
 - coupon curve duration
   - the market prices of securites with diff coupons
   - calc df
 - Convexity is always positive for regular coupon-paying bonds. Greater convexity is beneficial for both falling and rising yields.
+  - convexity is much greater for long-maturity bonds because they have payoffs associated with large values of t.
+
+- All else equal, duration and convexity both increase for longer maturities, lower coupons, and lower yields.
+
 
 
 
