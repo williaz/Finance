@@ -253,6 +253,7 @@
 #### 6.1 DISCOUNTING, PRESENT VALUE, AND FUTURE VALUE
 - T: tenor
 - discounting factor: interest rate, yield(internal rate of return)
+- anual rate: need divide compounding period
 - EAR(effective annual rate): percentage term  on an annual basis
   - comparable across assets
 - exp(y), (1 + y/T)^T
@@ -274,6 +275,8 @@
 - Macaulay duration
   - (Macaulay) duration represents an average of the time to wait for all cash flows.
   - With a zero coupon, Macaulay duration is equal to maturity.
+  - time weighted PV of cash flows
+  - for coupon-paying bonds, Mac duration is slightly lesss than the maturity
 - The modified duration is an adjusted version of the Macaulay duration, which accounts for changing yield to maturities. 
   - modif D = Mac D/(1 + y)
 - Duration
@@ -288,9 +291,13 @@
   - calc df
 - Convexity is always positive for regular coupon-paying bonds. Greater convexity is beneficial for both falling and rising yields.
   - convexity is much greater for long-maturity bonds because they have payoffs associated with large values of t.
+  - convesity is mainly driven by the cash flows far into the future
 
 - All else equal, duration and convexity both increase for longer maturities, lower coupons, and lower yields.
-
+- barbell portfolio: consisting if very short and very long maturity
+  - greater convexity
+- bullet portfolio: maturies in the same range
+- the market value of each bond is obtained by multiplying the par amount by the ratio of the market price divided by 100.
 
 
 
