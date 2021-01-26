@@ -299,6 +299,18 @@
 - bullet portfolio: maturies in the same range
 - the market value of each bond is obtained by multiplying the par amount by the ratio of the market price divided by 100.
 
+#### 7.1 DERIVATIVES MARKETS
+
+- swap: portfolios of forward
+- interest rate contracts, especially swaps, are the most widespread type of derivatives.
+- Counterparty risk can be addressed with a clearinghouse.
+  - central counterparty (CCP) clearing
+  - CCPs generally have very high credit ratings,
+
+Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 161). Wiley. Kindle Edition. 
+- All exchanges have a clearinghouse.
+  - vertical integration: 1:1
+  - horizontal integration: many to one
 
 
 
