@@ -307,12 +307,15 @@
   - central counterparty (CCP) clearing
   - CCPs generally have very high credit ratings,
 
-Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 161). Wiley. Kindle Edition. 
+
 - All exchanges have a clearinghouse.
   - vertical integration: 1:1
   - horizontal integration: many to one
 
+#### 7.2 FORWARD CONTRACTS
 
+- F * (1+r*)^t = S * (1+r)^t
+- dividend, interest rate
 
 
 
