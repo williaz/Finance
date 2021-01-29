@@ -315,7 +315,22 @@
 #### 7.2 FORWARD CONTRACTS
 
 - F * (1+r*)^t = S * (1+r)^t
-- dividend, interest rate
+- dividend: Ft * ^(-rt) = St - PV(Div)
+- interest rate
+#### 7.3 FUTURES CONTRACTS
+
+- Futures contracts are standardized, negotiable, and exchange-traded contracts to buy or sell an underlying asset.
+  - daily Marking to market: credit risk
+  - margin: buffer against future losses
+    - margin call: the amount to fill up is not to the maintenance margin, but to the initial margin.
+  - Volume is the number of contracts traded during the day, which is a flow item. 
+  - Open interest represents the outstanding number of contracts at the close of the day, which is a stock item.
+  
+#### 7.4 SWAP CONTRACTS
+
+- Swap contracts are OTC agreements to exchange a series of cash flows according to prespecified terms.  
+- Typically, swaps are established for longer periods than forwards and futures.
 
 
+  
 
