@@ -331,6 +331,11 @@
 - Swap contracts are OTC agreements to exchange a series of cash flows according to prespecified terms.  
 - Typically, swaps are established for longer periods than forwards and futures.
 
+#### 8.1 OPTION PAYOFFS
+
+- premium: option price
+- put call parity: c - p = S * e^(-dt) - K * e^(-rt)
+
 
   
 
