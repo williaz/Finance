@@ -336,6 +336,15 @@
 - premium: option price
 - put call parity: c - p = S * e^(-dt) - K * e^(-rt)
 
+- covered call: long stock + short call
+- protective put: long stock + long put
+- colar: long stock + long put with lower K + short call with higher K
+- straddle: combo of call and put with same maturity and K 
+- stangle: combo of call and put with diff K 
+- horizontal spread: diff t
+- vertical spread: diff K
+- butterfuly spread: same t: profitable when S stable
 
-  
+
+
 
