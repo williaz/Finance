@@ -345,6 +345,17 @@
 - vertical spread: diff K
 - butterfuly spread: same t: profitable when S stable
 
+### 8.2 OPTION PREMIUMS
+
+- premium increases with higher S in a nonlinear, convex fashion
+- time value increases with the volatility of the underlying asset
+- S - PV(K) <= call premium <= asset price 
+- PV(K) - S <= p <= K
+- never excise Americal call early, may excise put early
+
+
+
+
 
 
 
