@@ -345,7 +345,7 @@
 - vertical spread: diff K
 - butterfuly spread: same t: profitable when S stable
 
-### 8.2 OPTION PREMIUMS
+#### 8.2 OPTION PREMIUMS
 
 - premium increases with higher S in a nonlinear, convex fashion
 - time value increases with the volatility of the underlying asset
@@ -353,7 +353,26 @@
 - PV(K) - S <= p <= K
 - never excise Americal call early, may excise put early
 
+#### 8.3 VALUING OPTIONS
 
+- The philosophy of pricing models consists of replicating the payoff on the instrument by a portfolio of assets.
+- The BS model can be used to derive the risk-neutral probability of exercising the option.
+- For risk management, however, what matters is the actual probability of exercise, also called physical probability.
+
+- With an option on futures, the implicit income is the risk-free rate of interest.
+- the probability of ending in-the-money in a risk-neutral world is N(d2),
+
+#### 8.4 OTHER OPTION CONTRACTS
+
+- Binary option
+- Barrier options
+- Asian option: average, cheaper than regular options due to lower volatility.
+- Chooser option: choose call or put
+- compound option: cacall, option on option
+- lookback option: extreme
+#### 8.5 VALUING OPTIONS BY NUMERICAL METHODS
+
+- American option: because Monte Carlo simulations are strictly backward-looking, and cannot take into account optimal future exercise, which a binomial tree can do.
 
 
 
