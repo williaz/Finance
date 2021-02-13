@@ -374,6 +374,28 @@
 
 - American option: because Monte Carlo simulations are strictly backward-looking, and cannot take into account optimal future exercise, which a binomial tree can do.
 
+#### 9.1 OVERVIEW OF DEBT MARKETS
+
+- domestic bonds
+- foreign bonds: by government of Sweden in dollars in the United States).
+- Eurobonds: a dollar-denominated bond issued by IBM and marketed in London).
+
+- bond markets, traditionally defined as fixed-income securities with remaining maturities beyond one year, and the shorter-term money markets, with maturities below one year.
+
+- Floating-coupon bonds, which pay interest equal to a reference rate plus a margin, reset on a regular basis; these are usually called floating-rate notes (FRNs).
+
+- inverse floaters: coupon - 12 % - LIBOR
+- Most bonds are quoted on a clean price basis, that is, without accounting for the accrued income from the last coupon.
+  - 32rd
+  
+- Actual payments, however, must account for the accrual of interest. This is factored into the gross price, also known as the dirty price,
+  - accrued interest (AI) = coupon x (actual days since last coupon / actual days between last and next coupon)
+- accrued interest in the LIBOR market is based on actual/360.
+- annualized discount rate (DR) = (Face - P) / Face x(360/t)
+- Just before the reset date, we know that the coupon will be set to the prevailing interest rate. The FRN is then similar to cash, or a money market instrument, which has no interest rate risk and hence is selling at par with zero duration. after the reset date, the investor is locked into a fixed coupon over the accrual period. The FRN is then economically equivalent to a zero-coupon bond with maturity equal to the time to the next reset date.
+
+
+
 
 
 
