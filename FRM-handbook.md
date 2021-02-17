@@ -393,6 +393,21 @@
 - accrued interest in the LIBOR market is based on actual/360.
 - annualized discount rate (DR) = (Face - P) / Face x(360/t)
 - Just before the reset date, we know that the coupon will be set to the prevailing interest rate. The FRN is then similar to cash, or a money market instrument, which has no interest rate risk and hence is selling at par with zero duration. after the reset date, the investor is locked into a fixed coupon over the accrual period. The FRN is then economically equivalent to a zero-coupon bond with maturity equal to the time to the next reset date.
+#### 9.3 PRICING OF FIXED-INCOME SECURITIES
+- Fixed-income securities can be valued by, first, laying out their cash flows and, second, computing their net present value (NPV) using the appropriate discount rate.
+- The yield is also the expected rate of return on the bond, provided all coupons are reinvested at the same rate.
+
+- Movements in interest rates also create reinvestment risk. This risk can be avoided only by investing in zero-coupon bonds, which do not make intermediate payments.
+- For risk management purposes, it is better to consider the spot rates as the risk factors rather than the rate of return on price.
+- forward rates can be viewed as market-implied forecasts of future spot rates.
+- the T-period spot rate can be written as a geometric average of the spot and consecutive one-year forward rates:
+- F1,2 = R2 + (R2 - R1)
+
+- The par yield can be viewed as a weighted average of spot rates.
+- In an upward-sloping term structure environment, the forward curve is above the spot curve, which is above the par yield curve. According to the expectations hypothesis, this implies a forecast for rising interest rates.
+
+
+
 
 
 
