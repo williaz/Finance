@@ -401,13 +401,18 @@
 - For risk management purposes, it is better to consider the spot rates as the risk factors rather than the rate of return on price.
 - forward rates can be viewed as market-implied forecasts of future spot rates.
 - the T-period spot rate can be written as a geometric average of the spot and consecutive one-year forward rates:
-- F1,2 = R2 + (R2 - R1)
+- Fx,y = yRy - xRx = Py/Px
 
 - The par yield can be viewed as a weighted average of spot rates.
+- the coupon yield cuve is an average of the spot zero coupon curve
 - In an upward-sloping term structure environment, the forward curve is above the spot curve, which is above the par yield curve. According to the expectations hypothesis, this implies a forecast for rising interest rates.
 
+#### 9.4 FIXED-INCOME RISK
 
-
+- Using the duration approximation, the volatility of the rate of return in the bond price can be related to the volatility of yield changes
+  - vol(R) = D* vol(yield)
+- zero-coupon bond will always trade below par
+- 
 
 
 
