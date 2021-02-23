@@ -412,7 +412,29 @@
 - Using the duration approximation, the volatility of the rate of return in the bond price can be related to the volatility of yield changes
   - vol(R) = D* vol(yield)
 - zero-coupon bond will always trade below par
-- 
+
+
+#### 10.1 FORWARD CONTRACTS
+
+- Forward rate agreements (FRAs) are over-the-counter (OTC) financial contracts that allow counterparties to lock in an interest rate starting at a future time.
+
+- 1 × 4. The first number corresponds to the first settlement date, the second to the time to final maturity.
+- Vt = (St - F) * period * Notional * PV($1)
+  - PV($1) = $1 / (1 + St * period)
+  - St: the prevailing spot rate during the period, settlement date
+- A long FRA position benefits from an increase in rates. A short FRA position is similar to a long position in a bond. Its duration is positive and equal to the difference between the two maturities.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
