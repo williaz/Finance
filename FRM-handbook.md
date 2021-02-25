@@ -424,6 +424,28 @@
   - St: the prevailing spot rate during the period, settlement date
 - A long FRA position benefits from an increase in rates. A short FRA position is similar to a long position in a bond. Its duration is positive and equal to the difference between the two maturities.
 
+#### 10.2 FUTURES
+
+- Eurodollar futures are futures contracts tied to a forward LIBOR rate.
+- Pt = 10,000 * \[100 - 0.25*(100-FQt)] = 10,000 * \[100 - 0.25 * Ft]
+  - FQt = 100 - Ft, FQt is the quoted Eurodollar futures price.
+- because the change in the price is related to the interest rate by a factor of 0.25, this contract has a constant duration of three months. 
+- It is useful to remember that the DV01 is $10,000 × 0.25 × 0.01 = $25.
+- Interest rate futures contracts are designed to move like a bond, that is, to lose value when interest rates increase. 
+
+- Future rate = forward rate + 0.5 * vol * maturitu of future * underlying rate
+
+
+- T-bond futures are futures contracts tied to a pool of Treasury bonds that consists of all bonds with a remaining maturity greater than 15 years (and noncallable within 15 years).
+- Cost = Price - Futrue Quote * CF(coversion factor)
+- High-coupon bonds have higher CFs. Also, because the coupon is greater than 6%, the CF is greater than one.
+- Note how the CF adjustment brings the cost of all bonds much closer to each other than their original prices.
+
+- When the term structure is upward sloping, the opposite occurs, and there is a tendency for long-term bonds to be delivered.
+
+
+
+
 
 
 
