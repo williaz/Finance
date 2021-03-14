@@ -443,6 +443,11 @@
 
 - When the term structure is upward sloping, the opposite occurs, and there is a tendency for long-term bonds to be delivered.
 
+#### 10.3 SWAPS
+
+- absolute/comparative advantage => mutual advantage
+
+
 
 
 
