@@ -446,6 +446,15 @@
 #### 10.3 SWAPS
 
 - absolute/comparative advantage => mutual advantage
+- Swaps can be quoted in terms of spreads relative to the yield of similar-maturity Treasury notes.
+  - the swap should trade at a positive credit spread to Treasuries.
+  - swap rates form the basis for the swap curve, which is also called the par curve, because it is equivalent to yields on bonds selling at par.
+
+- We can price the swap using either of two approaches: taking the difference between two bond prices or valuing a sequence of forward contracts.
+
+- A position in a receive-fixed swap is equivalent to a long position in a bond with similar coupon characteristics and maturity offset by a short position in a floating-rate note. Its duration is close to that of the fixed-rate note.
+
+Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 241). Wiley. Kindle Edition. 
 
 
 
