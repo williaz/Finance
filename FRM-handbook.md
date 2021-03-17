@@ -453,8 +453,15 @@
 - We can price the swap using either of two approaches: taking the difference between two bond prices or valuing a sequence of forward contracts.
 
 - A position in a receive-fixed swap is equivalent to a long position in a bond with similar coupon characteristics and maturity offset by a short position in a floating-rate note. Its duration is close to that of the fixed-rate note.
+#### 10.4 Options
 
-Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 241). Wiley. Kindle Edition. 
+- By purchasing the cap, the issuer ensures that the cost of capital will not exceed the capped rate. Such caps are really a combination of individual options, called caplets.
+- The payment on each caplet is determined by CT, the notional, and an accrual factor. Payments are made in arrears, that is, at the end of the period.
+- cap/floor
+- collar: long cap + short floor = long pay-fixed swap
+- flat/spot volatilities
+- 
+
 
 
 
