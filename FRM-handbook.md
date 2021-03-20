@@ -460,7 +460,11 @@
 - cap/floor
 - collar: long cap + short floor = long pay-fixed swap
 - flat/spot volatilities
-- 
+- swaptions
+  - 1Y × 5Y swaption. This gives the owner the right to enter in one year a long or short position in a five-year swap.
+  - In practice, swaptions are traded in terms of volatilities instead of option premiums.
+
+
 
 
 
