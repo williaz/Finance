@@ -464,6 +464,9 @@
   - 1Y × 5Y swaption. This gives the owner the right to enter in one year a long or short position in a five-year swap.
   - In practice, swaptions are traded in terms of volatilities instead of option premiums.
 
+- options in Eurodollar future
+- options on T-bond future
+  - Notional multiple Max 
 
 
 
