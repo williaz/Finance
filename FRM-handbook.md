@@ -468,6 +468,19 @@
 - options on T-bond future
   - Notional multiple Max 
 
+#### 11.1 EQUITIES
+
+- Equity
+  - residual claims
+  - limited liablity
+- preferred stocks
+  - junior to bonds, but senior to common stocks.
+  - Preferred stocks usually have no voting rights
+  - offsetting tax advantage, 30%
+
+- Gordon growth model
+- Equity risk arises from potential movements in the value of stock prices.
+- Concentration refers to the proportion of the index due to the biggest stocks.
 
 
 
