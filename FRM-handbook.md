@@ -482,6 +482,13 @@
 - Equity risk arises from potential movements in the value of stock prices.
 - Concentration refers to the proportion of the index due to the biggest stocks.
 
+#### 11.2 EQUITY DERIVATIVES
+
+- Stock index futures
+  - cash-and-carry relationship with index
+    - F * exp(-rt) = S * exp(-yt)
+- equity swaps are agreements to exchange cash flows tied to the return on a stock market index in exchange for a fixed or floating rate of interest.
+
 
 
 
