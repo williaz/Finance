@@ -511,7 +511,18 @@
 - Ideally, risk should be measured at the top level of the portfolio or institution. This has led to a push toward risk measures that are comparable across different types of risk. One such summary measure is value at risk (VAR). VAR is a statistical measure of total portfolio risk, taken as the worst loss at a specified confidence level over the horizon.
 
 
+1. Collect the portfolio positions and map them onto the risk factors. 
+2. From market data, construct the distribution of risk factors (e.g., normal, empirical, or other). 
+3. Construct the distribution of portfolio returns using one of the three methods (parametric, historical, Monte Carlo), and summarize the downside risk with VAR.
 
+
+The risk manager can easily submit the current portfolio to various scenarios, which are simply predefined movements in the risk factors. Therefore, stress tests are simple extensions of VAR systems.
+
+CVAR indicates the potential loss if the portfolio is “hit” beyond VAR. Because CVAR is an average of the tail loss, one can show that it qualifies as a subadditive risk measure.
+- also called expected shortfall, tail conditional expectation, conditional loss, or expected tail loss.
+
+
+ 
 
 
 
