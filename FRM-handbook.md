@@ -489,6 +489,27 @@
     - F * exp(-rt) = S * exp(-yt)
 - equity swaps are agreements to exchange cash flows tied to the return on a stock market index in exchange for a fixed or floating rate of interest.
 
+- Because principals on currency swaps are in different currencies, they need to be exchanged. In contrast, the principal amounts for interest rate swaps are in the same currency and are not exchanged.
+
+
+#### 11.56 Commodity derivatives
+- Agricultural products, including grains and oilseeds (corn, wheat, soybeans), food and fiber (cocoa, coffee, sugar, orange juice) 
+- Livestock and meat (cattle, hogs) 
+- Base metals (aluminum, copper, nickel, zinc) Precious metals (gold, silver, platinum) 
+- Energy products (natural gas, heating oil, unleaded gasoline, crude oil) 
+- Weather derivatives (temperature, hurricanes, snow) Environmental products (CO2 allowances)
+
+
+- Backwardation: discount forward, higher yield, demand immediate consumption
+- A market is said to be in backwardation (or inverted) when forward prices trade at a discount relative to spot prices. This implies that the convenience yield is greater than the interest rate y > r. In other words, a high convenience yields puts a higher price on the cash market, as there is great demand for immediate consumption of the commodity.
+- The market is said to be in a contango when the futures price trades at a premium relative to the spot price.
+
+### Risk Models
+- Modern risk management is position-based. This is more forward-looking than return-based information.
+
+- VaR on portoflio level
+- Ideally, risk should be measured at the top level of the portfolio or institution. This has led to a push toward risk measures that are comparable across different types of risk. One such summary measure is value at risk (VAR). VAR is a statistical measure of total portfolio risk, taken as the worst loss at a specified confidence level over the horizon.
+
 
 
 
