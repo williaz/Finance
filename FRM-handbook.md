@@ -521,7 +521,18 @@ The risk manager can easily submit the current portfolio to various scenarios, w
 CVAR indicates the potential loss if the portfolio is “hit” beyond VAR. Because CVAR is an average of the tail loss, one can show that it qualifies as a subadditive risk measure.
 - also called expected shortfall, tail conditional expectation, conditional loss, or expected tail loss.
 
+- For most applications, VAR is simply a benchmark measure of downside risk. If so, what really matters is consistency of the VAR confidence level across trading desks or time.
 
+- In practice, the horizon cannot be less than the frequency of reporting of profits and losses (P&L). Typically, banks measure P&L on a daily basis, and corporates on a longer interval (ranging from daily to monthly). This interval is the minimum horizon for VAR.
+
+- Local valuation methods make use of the valuation of the instruments at the current point, along with the first and perhaps the second partial derivatives. 
+  - Analytical method: linear/nonliear model
+- Full valuation methods, in contrast, reprice the instruments over a broad range of values for the risk factors.
+  - Historical, Monte Carlo
+  - requires repricing the asset.
+  - stress tests require full valuation.
+
+Market Risk Charge (MRC) that is based on the bank's internal VAR measures. The original rules, as laid out in 1996, require the following parameters: A horizon of 10 trading days, or two calendar weeks A 99% confidence interval An observation period based on at least a year of historical data and updated at least once a quarter
  
 
 
