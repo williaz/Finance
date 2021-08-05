@@ -534,7 +534,16 @@ CVAR indicates the potential loss if the portfolio is “hit” beyond VAR. Beca
 
 Market Risk Charge (MRC) that is based on the bank's internal VAR measures. The original rules, as laid out in 1996, require the following parameters: A horizon of 10 trading days, or two calendar weeks A 99% confidence interval An observation period based on at least a year of historical data and updated at least once a quarter
  
+- Basis risk arises when changes in payoffs on the hedging instrument do not perfectly offset changes in the value of the inventory position. Hedging is effective when basis risk is much less than outright price risk.
+- the amount sold is the same as the underlying, this is called a unitary hedge.
+- basis risk is the uncertainty whether the cash-futures spread will widen or narrow during the hedging period.
+- The optimal hedge is given by the negative of the beta coefficient of a regression of changes in the cash value on changes in the payoff on the hedging instrument.
 
+- The optimal duration hedge is given by the ratio of the dollar duration of the position to that of the hedging instrument.
+
+- The optimal hedge with stock index futures is given by the beta of the cash position times its value divided by the notional of the futures contract.
+
+- duration-based hedging scheme: b. A small parallel shift occurs in the yield curve.
 
 
 
