@@ -546,9 +546,12 @@ Market Risk Charge (MRC) that is based on the bank's internal VAR measures. The 
 - duration-based hedging scheme: b. A small parallel shift occurs in the yield curve.
 
 - The delta of an at-the-money call option is close to 0.5. Delta moves to 1 as the call goes deep in-the-money (ITM). It moves to zero as the call goes deep out-of-the-money (OTM).
+- positive gamma is long ops, negative is short
 
 - For vanilla options, gamma is the highest, or nonlinearities are most pronounced, for short-term at-the-money options.
-- Vega is highest for long-term at-the-money options.
+- gamma increase near maturity, vega decrease
+
+- Vega(The sensitivity of an option to volatility) is highest for long-term at-the-money options.
 - An increase in the rate of interest increases the value of the call, as the underlying asset grows at a higher rate, which increases the probability of exercising the call, with a fixed strike price K.
 
 - An increase in the dividend yield decreases the growth rate of the underlying asset, which is harmful to the value of the call but helpful to the value of a put.
@@ -556,7 +559,9 @@ Market Risk Charge (MRC) that is based on the bank's internal VAR measures. The 
 - Like gamma, theta is greatest for short-term at-the-money options, when measured in absolute value. At-the-money options lose a great proportion of their value when the maturity is near.
 
 
+- a delta-hedged position with positive gamma, which is beneficial in terms of price risk, must have negative theta, or time decay.
 
+Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 345). Wiley. Kindle Edition. 
 
 
 
