@@ -566,8 +566,10 @@ Market Risk Charge (MRC) that is based on the bank's internal VAR measures. The 
 - as semiparametric. Extreme value theory (EVT) can be used to fit an analytical distribution, but just to the left tail.
 
 
-
-
+- Using CVAR as a risk measure is consistent with SSD, whereas VAR requires FSD, which is less realistic.
+- first-order stochastic dominance (FSD).
+- second-order stochastic dominance (SSD).
+- Basel yellow zone: ```[5, 9]```
 
 
 
