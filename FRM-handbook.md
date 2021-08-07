@@ -561,7 +561,10 @@ Market Risk Charge (MRC) that is based on the bank's internal VAR measures. The 
 
 - a delta-hedged position with positive gamma, which is beneficial in terms of price risk, must have negative theta, or time decay.
 
-Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 345). Wiley. Kindle Edition. 
+- The Basel framework recommends using both hypothetical and actual trading outcomes in backtests.
+
+- as semiparametric. Extreme value theory (EVT) can be used to fit an analytical distribution, but just to the left tail.
+
 
 
 
