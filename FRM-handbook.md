@@ -571,6 +571,13 @@ Market Risk Charge (MRC) that is based on the bank's internal VAR measures. The 
 - second-order stochastic dominance (SSD).
 - Basel yellow zone: ```[5, 9]```
 
+- trading options involves taking volatility bets as well as directional bets on the underlying asset prices.
+- the implied volatility for options on the S&P stock index, also known as the Volatility Index (VIX). The implied volatility, formerly derived from the market prices of at-the-money near-term options on the S&P 100 index, is calculated by the Chicago Board Options Exchange.
+
+- Plots of the ISD against the strike price generally display what is called a volatility smile pattern, meaning that ISDs increase for low and high values of K relative to the current price.
+- For equity index options, the effect is more asymmetrical, with very high ISDs for low strike prices. Because of the negative slope, this is called a volatility skew. A skewed smile is sometimes called a smirk. In other words, out-of-the-money (OTM) put options are priced with a higher ISD than at-the-money (ATM) or even in-the-money (ITM) put options.
+
+- A long correlation trade would buy a variance swap on the index and short variance swaps on the components.6
 
 
 
