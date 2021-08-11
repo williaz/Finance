@@ -581,6 +581,15 @@ Market Risk Charge (MRC) that is based on the bank's internal VAR measures. The 
 
 
 
+- A key feature of a mortgage loan, however, is that the homeowner has the ability to repay the principal early at any time. Thus, the homeowner is long a prepayment option.
+
+
+
+- Public Securities Association (PSA) prepayment model. The PSA model assumes a CPR of 0.2% for the first month, going up by 0.2% per month for the next 30 months, until 6% thereafter.
+
+- When the securitization is structured as a pass-through, there is one class of bonds, and all investors receive the same proportional interests in the cash flows. When the SPV issues different classes of securities, the bonds are called tranches.
+
+
 
 
 
