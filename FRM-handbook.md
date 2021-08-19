@@ -598,7 +598,15 @@ IOs are bullish securities with negative duration.
 - inverse floater: x% - y LIBOR: duration = (y + 1) * D(orig)
 - A reverse floater is equivalent as a long position in a fixed-rate bond plus a receive-fixed/pay-floating swap.
 
-Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 448). Wiley. Kindle Edition. 
+- Counterparty credit risk consists of both presettlement and settlement risk. 
+- Presettlement risk is the risk of loss due to the counterparty's failure to perform on an obligation during the life of the transaction.
+- settlement risk is due to the exchange of cash flows and is of a much shorter-term nature.
+
+- Default, which is a discrete state for the counterparty—either the counterparty is in default or not. This occurs with some probability of default (PD). 
+- Credit exposure (CE), which is the economic or market value of the claim on the counterparty. It is also called exposure at default (EAD) at the time of default. 
+- Loss given default (LGD), which represents the fractional loss due to default. As an example, take a situation where default results in a fractional recovery rate of 30% only. LGD is then 70% of the exposure. 
+- It is important to realize that a long credit position involves an embedded short option position.
+
 
 
 
