@@ -607,7 +607,9 @@ IOs are bullish securities with negative duration.
 - Loss given default (LGD), which represents the fractional loss due to default. As an example, take a situation where default results in a fractional recovery rate of 30% only. LGD is then 70% of the exposure. 
 - It is important to realize that a long credit position involves an embedded short option position.
 
+- The expected credit loss depends on default probabilities but not on default correlation. In contrast, the higher the default correlation, the higher the unexpected credit loss.
 
+Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 462). Wiley. Kindle Edition. 
 
 
 
