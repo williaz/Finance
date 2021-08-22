@@ -609,7 +609,16 @@ IOs are bullish securities with negative duration.
 
 - The expected credit loss depends on default probabilities but not on default correlation. In contrast, the higher the default correlation, the higher the unexpected credit loss.
 
-Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 462). Wiley. Kindle Edition. 
+
+- The variables used in the z-score are (1) working capital over total assets, (2) retained earnings over total assets, (3) EBIT over total assets, (4) market value of equity over total liabilities, and (5) net sales over total assets.
+
+- It is interesting to see that the marginal probability of default increases with maturity for initial high credit ratings, but decreases for initial low credit ratings.
+
+- In the United States, firms that are unable to make required payments can file for either Chapter 7 bankruptcy, which leads to the liquidation of the firm's assets, or Chapter 11 bankruptcy, which leads to a reorganization of the firm during which the firm continues to operate under court supervision.
+
+- Because local currency debt is backed by the taxation power of the government, local currency debt is considered to have less credit risk than foreign currency debt.
+
+Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 494). Wiley. Kindle Edition. 
 
 
 
