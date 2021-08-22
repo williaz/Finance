@@ -618,7 +618,15 @@ IOs are bullish securities with negative duration.
 
 - Because local currency debt is backed by the taxation power of the government, local currency debt is considered to have less credit risk than foreign currency debt.
 
-Financial Risk Manager Handbook: 625 (Wiley Finance) (p. 494). Wiley. Kindle Edition. 
+Yield(market) = Yfree + PD x LGD
+
+- movements in corporate bond prices tend to lead changes in credit ratings.
+
+- The Merton (1974) model views equity as akin to a call option on the assets of the firm, with an exercise price given by the face value of debt.
+
+- Equity can be viewed as a call option on the firm value with strike price equal to the face value of debt. Corporate debt can be viewed as risk-free debt minus a put option on the firm value.
+
+- The value of credit-sensitive debt is B = Ke−(r+s)τ. This increases (1) if the risk-free interest rate decreases, or (2) if the credit spread decreases, or (3) if the maturity decreases. The credit spread decreases if the value of the firm goes up, or if the leverage goes down, or if the volatility goes down.
 
 
 
