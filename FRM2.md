@@ -12,7 +12,7 @@
 
 • Option valuation
 
-• Fixed income valuation
+• Fixed income valuationa
 
 • Hedging
 
@@ -106,6 +106,55 @@
 • Balance sheet management
 
 • Asset liquidity
+
+### 1
+#### Explain and calculate liquidity trading risk via cost of liquidation and liquidity-adjusted VaR (LVaR).
+- Solvency refers to a company having more assets than liabilities so that the value of its equity is positive. Liquidity refers to the ability of a company to make cash payments as they become due. 
+- short notice
+- bid–offer spreads
+
+- Cost of liquidation = {(bid-offer spread) / (2* mid-market price)}  * position
+
+
+#### Identify liquidity funding risk, funding sources, and lessons learned from real cases: Northern Rock, Ashanti Goldfields, and Metallgesellschaft.
+-  Liquidity stresses in the economy,  Overly aggressive funding decisions(liq mismatch), A poor financial performance, lead to a lack of confidence. 
+
+- Northern Rock: can't reply on selling short term debt
+- Ashanti Goldfields: margin call on hedge position due to policy surprise
+- Metallgesellschaft: can't handle cash flow mismatch due to short term market change
+
+#### Evaluate Basel III liquidity risk ratios and BIS principles for sound liquidity risk management.
+
+- LCR: High-quality liquid assets/Net cash outflows in a 30-day period >= 100%
+
+#### Explain liquidity black holes and identify the causes of positive feedback trading
+
+
+- A liquidity black hole describes a situation where liquidity has dried up in a particular market because everyone wants to sell and no one wants to buy, or vice versa.
+
+- trend trade, stop loss/margin call, option/hedging/synthetics/predatory trading
+- There are two types of liquidity risk: liquidity trading risk and liquidity funding risk.
+
+### 2
+
+#### Differentiate between sources of liquidity risk and describe specific challenges faced by different types of financial institutions in managing liquidity risk.
+
+- Maturity mismatch: Funding liquidity risk arises for market participants who bor-row at short term to finance investments that require a longer time to become profitable.
+
+
+
+#### Summarize the asset-liability management process at a fractional reserve bank, including the process of liquidity transformation.
+
+
+
+● Compare transactions used in the collateral market and explain risks that can arise through collateral market transactions.
+● Describe the relationship between leverage and a firm’s return profile (including the leverage effect) and distin-guish the impact of different types of transactions on a firm’s leverage and balance sheet.
+
+● Differentiate between sources of liquidity risk and describe specific challenges faced by different types of financial institutions in managing liquidity risk.
+● Summarize the asset-liability management process at a fractional reserve bank, including the process of liquidity transformation.
+● Compare transactions used in the collateral market and explain risks that can arise through collateral market transactions.
+● Describe the relationship between leverage and a firm’s return profile (including the leverage effect) and distin-guish the impact of different types of transactions on a firm’s leverage and balance sheet.
+
 
 ## Risk Management and Investment Management
 
