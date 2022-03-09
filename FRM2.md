@@ -155,6 +155,48 @@
 ● Compare transactions used in the collateral market and explain risks that can arise through collateral market transactions.
 ● Describe the relationship between leverage and a firm’s return profile (including the leverage effect) and distin-guish the impact of different types of transactions on a firm’s leverage and balance sheet.
 
+### 3
+#### Evaluate the characteristics of sound Early Warning Indica-tors (EWI) measures.
+
+Rapid asset growth, especially when funded with potentially volatile liabilities 
+
+Growing concentrations in assets or liabilities 
+
+Increases in currency mismatches 
+
+Decrease of weighted average maturity of liabilities 
+
+Repeated incidents of positions approaching or breaching internal or regulatory limits 
+
+Negative trends or heightened risk associated with a particular product line 
+
+Significant deterioration in the bank’s financial condition 
+
+Negative publicity Credit rating downgrade Stock price declines 
+
+Rising debt costs 
+
+Widening debt/credit-default-swap spreads 
+
+Rising wholesale/retail funding costs 
+
+Counterparties requesting additional collateral or resisting entering into new transactions 
+
+Drop in credit lines Increasing retail deposit outflows 
+
+Increasing redemptions of CDs before maturity 
+
+Difficulty accessing longer-term fuunding 
+
+Difficulty placing short-term liabilities
+
+#### Identify EWI guidelines from banking regulators and supervisors (OCC, BCBS, Federal Reserve).
+
+
+#### Discuss the applications of EWIs in the context of the liquidity risk management process
+
+
+
 
 ## Risk Management and Investment Management
 
