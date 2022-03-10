@@ -196,7 +196,25 @@ Difficulty placing short-term liabilities
 #### Discuss the applications of EWIs in the context of the liquidity risk management process
 
 
+### 4
 
+#### Compare various money market and capital market instruments and discuss their advantages and disadvantages.
+
+1) money market instruments, which reach maturity within one year and are noted for their low risk and ready marketability and 
+2) capital market instruments, which have remaining maturities beyond one year and are generally noted for their higher expected rate of return and capital gains potential.
+
+#### Identify and discuss various factors that affect the choice of investment securities by a bank.
+
+- 
+
+#### Apply investment maturity strategies and maturity management tools based on the yield curve and duration.
+
+- the yield curve is simply a picture of how market interest rates differ across loans and securities of varying term (time) to maturity.
+- Risk-Return Trade-Offs: current trade-offs between greater returns and greater risks
+- Pursuing the Carry Trade: steep upward slope, borrow money to buy
+- Riding the Yield Curve: 
+
+- portfolio immunization: duration = sell time
 
 ## Risk Management and Investment Management
 
