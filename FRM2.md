@@ -155,6 +155,9 @@
 ● Compare transactions used in the collateral market and explain risks that can arise through collateral market transactions.
 ● Describe the relationship between leverage and a firm’s return profile (including the leverage effect) and distin-guish the impact of different types of transactions on a firm’s leverage and balance sheet.
 
+- Liquidity Coverage Ratio: The ratio of the stock of high-quality liquid assets to the net cash outflows over 30 days must be greater than 100%.
+
+
 ### 3
 #### Evaluate the characteristics of sound Early Warning Indica-tors (EWI) measures.
 
