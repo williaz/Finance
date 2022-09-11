@@ -1,0 +1,20 @@
+- Merton Model
+  - PD: 1- N(d2)
+    - T = 1: d2 ~= (lnV - lnK) / o
+  - credit spread
+  - assume just zero-coupons, no jump on firm value; asset follows lognormal with constant variance
+  - works better on debt below investment grade ()
+- Moody's KMV
+  - DD: (V - K) / o
+  - PD: historical default rate to DD
+- PD * LGF ~= CS
+
+- Credit analysis of Fin: importance of asset quality; omission of cash flow
+- cumulative prob of default increases over time, good companies will eventually fail
+- Credit spread = LGD * PD = (1-RR)*PD
+- value of suboridinate debt: low PD, similiar to senior debt; high PD, equity
+- diversification helps unexpected loss
+- Credit VaR = credit loss - expected loss
+- SMM = prepayment / (beg.bal = scheduled prinicpal payment)
+- (1- SMM)^12 = 1 - CPR
+- 100% PSA => CPR=0.2
