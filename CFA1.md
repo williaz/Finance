@@ -115,12 +115,16 @@
 
 - clawback
 
+## Corporate
 
+- Enterprise value = MV of shares + MV of Debt - Cash
+- PPM(pirvate placement memorandum)
+- SPACs have finite time period(e.g.18m) to complete
 
-
-
-
-
+- public -> private: LBO, MBO
+- governance system
+  - shareholder theory: max shareholder's return
+  - stakeholder: all who have an interest in the company
 
 
 
