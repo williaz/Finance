@@ -47,7 +47,7 @@
 
 
 - Macro: top down
-- CAT(Commodity trading advisers) future
+- CTA(Commodity trading advisers) future
 
 ### Private Capital
 - not sourced from public markets
@@ -83,18 +83,37 @@
 
 
 
+### Real Estate
 
+### Infrastructure
+- PPP(Public-private partenership) approach commonly
+- brownfield investment: exisitng infra
+- greenfield inv: to be constructed infra
+- inherent risk -> regulation risk
 
+### Performance Appraisal
+- Sharp ratio: normal dist; Rp - Rf / std(p)
+- Sorotino Ratio: downside volatility; Rp - Rf / downside dev(p)
+- Calmar ratio: for a period, E(Rp)/max drawdown(MDD); 3yrs
+- MAR ratio: E(Rp)/MDD; for hedge fund, CTA
 
+#### PE/RE
+- IRR: assumptions: financing rate for outgoing CF; re-investment rate for incoming CF
+- MOIC(multiple of invested capital)
+  - = (realized value of investment + unrealized) / total amount of invested capital
+  - ignore timing of CF
 
+- fee
+  - incentive fee: until water mark
+  - custom fee arrangment
+    - liquidity terms and asset size
+    - founders' share
+    - Either/or fees: mgt fee vs incentive fee
+- Warerfall: distribution method between LPs and GPs
+  - Deal-by-deal (US): good for GP
+  - Whole-of-fund(EU): LP
 
-
-
-
-
-
-
-
+- clawback
 
 
 
